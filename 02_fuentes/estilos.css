@@ -1,0 +1,35 @@
+body {
+  background-color: green;
+  text-align: center;
+  margin-top: 15em;
+}
+
+.fondoNaranja {
+  background-color: orange;
+}
+@font-face {
+    font-family: 'Cream_Cake';
+    src: url('G:\\htdocs\\UT01\\02_fuentes\\Cream_Cake.otf');
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+#p1 {
+  font-family: serif;
+  font-size: 18pt;
+}
+#p2 {
+  font-family: sans-serif;
+  font-size: 18pt;
+}
+#p3{
+  font-family: "Cream_Cake";
+  font-size: 18pt;
+}
+#p4{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 18pt;
+}
